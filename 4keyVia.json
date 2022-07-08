@@ -1,0 +1,13 @@
+{
+  "name": "charles_4key",
+  "vendorId": "0xFEED",
+  "productId": "0x0000",
+  "lighting": "none",
+  "matrix": { "rows": 2, "cols": 2 },
+  "layouts": {
+    "keymap": [
+      ["0,0", "0,1"],
+      ["1,0", "1,1"]
+    ]
+  }
+}
